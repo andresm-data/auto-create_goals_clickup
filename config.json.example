@@ -1,0 +1,39 @@
+[
+    {
+        "person_name": "Juan",
+        "owner_id": "1234",
+        "team_id": "123",
+        "goal_name": "Ene 2026",
+        "goal_description": "Optimizar y automatizar procesos de marketing para mejorar la eficiencia, personalizar la experiencia del cliente y aumentar la conversión.",
+        "month_offset": 0,
+        "color": "#E2725B",
+        "key_results": [
+            {
+                "name": "Atender todas las solicitudes del cliente para el área de Marketing Automation, asegurando una gestión eficiente y oportuna."
+            },
+            {
+                "name": "Garantizar que todos los requerimientos del área de Marketing Automation sean atendidos de manera eficiente y en tiempo oportuno durante el mes."
+            },
+            {
+                "name": "Realizar optimizaciones en Salesforce para mejorar su eficiencia, usabilidad y alineación con las necesidades del negocio."
+            }
+        ]
+    },
+    {
+        "person_name": "Erika",
+        "owner_id": "4567",
+        "team_id": "456",
+        "goal_name": "Ene 2026",
+        "goal_description": "La ingeniería de datos se enfoca en diseñar, construir y mantener la infraestructura que permite la ingesta, procesamiento y almacenamiento eficiente de datos. Sus procesos clave incluyen la integración de fuentes, ETL/ELT, modelado de datos y optimización de pipelines.",
+        "month_offset": 0,
+        "color": "#325C74",
+        "key_results": [
+            {
+                "name": "Atender, resolver y verificar entregables del área relacionados con extracción de datos y configuración de infraestructura en GCP, garantizando continuidad operativa y calidad técnica."
+            },
+            {
+                "name": "Atender, resolver y validar periódicamente los requerimientos técnicos relacionados con las plataformas de transformación de datos Dataform y procesos de ETL/ELT, asegurando su correcto funcionamiento, alineación con los flujos de datos y seguimiento continuo de su desempeño."
+            }
+        ]
+    }
+]
